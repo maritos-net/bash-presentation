@@ -1,0 +1,2 @@
+/slides/*.txt
+!/slides/test.txt

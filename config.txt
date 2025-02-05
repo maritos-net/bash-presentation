@@ -1,0 +1,2 @@
+SLIDE_PROMPT="続けるには Enter を押してください..."
+SLIDE_END_MESSAGE="すべてのプレゼンテーションが終了しました。このプレゼンテーションはbash-presentationで作成されました。"
